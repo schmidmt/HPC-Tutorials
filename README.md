@@ -6,6 +6,9 @@ References for HPC Tutorials
 Graphing 2D
 ---------------------
 
+### Graphing Tutorial
+This is a ipython notebook file which contains everything we will/have gone over.
+
 ### Line Plot
 The simplest example where we plot a line.
 
